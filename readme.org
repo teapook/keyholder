@@ -1,4 +1,9 @@
-* keyholder 制
+* Keyholder 制
+  國外各種 hackerspace 與台灣國內漸漸興起各式各樣的開放空間啟發
+  決定用自家店來玩玩看這種開放空間給信任的人使用的經營模式
+  
+** TODO 介紹 keyholder 跟 hackerspace 給新朋友的描述 
+* Keyholder 可以
 ** 所有茶舖客聚會免場地費
    但是如果活動有其他費用仍須支付
 ** 自由使用空間權
@@ -9,10 +14,14 @@
 ** 有teapook 發展如何制定的提案及投票權利
    經營方保留否決權。
 ** 其他？
-* 申請成為 keyholder  
+   還希望 keyholder 能怎麼使用空間呢？
+   歡迎提交建議 commit issue 
+* 申請成為 Keyholder  
  
 ** Github 登記申請
    請到本專案底下，開一個有 "key application 申請金鑰"  label 的 issue ，並繳交完月費者將可成為 keyholder
  
 ** 先搶先贏
  前 11 把 key 月費為每個月 2000$ 後十把每個月月費 2500$
+
+ 
