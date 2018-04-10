@@ -21,7 +21,13 @@
 ** Github 登記申請
    請到本專案底下，開一個有 "key application 申請金鑰"  label 的 issue ，並繳交完月費者將可成為 keyholder
  
+** 登計 Keyholder 名單
+   成為 keyholder 之後，請在這份 Readme 以下列形式登記，讓其他朋友認識你。
 ** 先搶先贏
  前 11 把 key 月費為每個月 2000$ 後十把每個月月費 2500$
 
  
+* 現任 Keyholder 名單
+  
+** [[https://github.com/jefferysac][jefferysac]]
+   茶舖客 teappok 的店主，自學大學科學家系，正實現著成為科學家，去歐洲生活等目標
